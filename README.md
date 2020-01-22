@@ -18,3 +18,11 @@ cd myapp
 npm init -y
 npm install express --save
 ```
+
+### hello world
+
+```bash
+node app.js
+```
+
+[3000](http://localhost:3000/ '3000')
