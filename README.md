@@ -25,4 +25,4 @@ npm install express --save
 node app.js
 ```
 
-[3000](http://localhost:3000/ '3000')
+http://localhost:3000/
